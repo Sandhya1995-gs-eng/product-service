@@ -8,6 +8,8 @@
         <version>3.4.2</version>
         <relativePath/> <!-- lookup parent from repository sandhya-->
     </parent>
+
+
     <groupId>com.example</groupId>
     <artifactId>product-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
